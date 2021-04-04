@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+    <a href="/home">
     <img alt="Vue logo" src="./assets/bbuggu.jpg" width="400px">
-    <HelloWorld msg="Cute Cat BBUGGU"/>
+    </a>
+    <HelloWorld msg="귀여운 뿌꾸"/>
   </div>
 </template>
 
