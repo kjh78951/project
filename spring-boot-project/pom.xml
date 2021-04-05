@@ -15,7 +15,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-project</name>
 	<description>Spring Boot Project</description>
-
+	<packaging>war</packaging>
+	
 	<repositories>
 		<repository>
 			<id>oracle</id>
